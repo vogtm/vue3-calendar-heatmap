@@ -3,6 +3,7 @@
 ![](https://user-images.githubusercontent.com/684302/142281760-eaeccf78-5cc8-450d-8407-6208aafb63a2.png)
 
 [![npm](https://img.shields.io/npm/v/vue3-calendar-heatmap.svg?style=flat-square)](https://www.npmjs.com/package/vue3-calendar-heatmap)
+[![npm](https://img.shields.io/npm/dm/vue3-calendar-heatmap?style=flat-square)](https://www.npmjs.com/package/vue3-calendar-heatmap)
 [![TypeScript](https://img.shields.io/badge/-Typescript-informational?style=flat-square)](https://www.typescriptlang.org/)
 [![vue2](https://img.shields.io/badge/vue-3.x-brightgreen.svg?style=flat-square)](https://vuejs.org/)
 
