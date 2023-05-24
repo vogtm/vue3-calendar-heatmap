@@ -4,6 +4,7 @@
 
 [![npm](https://img.shields.io/npm/v/vue3-calendar-heatmap.svg?style=flat-square)](https://www.npmjs.com/package/vue3-calendar-heatmap)
 [![npm](https://img.shields.io/npm/dm/vue3-calendar-heatmap?style=flat-square)](https://www.npmjs.com/package/vue3-calendar-heatmap)
+[![size](https://img.shields.io/bundlephobia/minzip/vue3-calendar-heatmap?label=size&style=flat-square)](https://www.npmjs.com/package/vue3-calendar-heatmap)
 [![TypeScript](https://img.shields.io/badge/-Typescript-informational?style=flat-square)](https://www.typescriptlang.org/)
 [![vue2](https://img.shields.io/badge/vue-3.x-brightgreen.svg?style=flat-square)](https://vuejs.org/)
 
