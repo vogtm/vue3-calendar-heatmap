@@ -63,7 +63,6 @@
 				>
 					<template v-for="(day, dayIndex) in week" :key="dayIndex">
 						<rect class="vch__day__square"
-							  v-if="day.date < now"
 							  :rx="round"
 							  :ry="round"
 							  :transform="getDayPosition(dayIndex)"
